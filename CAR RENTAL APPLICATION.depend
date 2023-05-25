@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1386420876 source:c:\users\vinayak soni\documents\project c batch(cab software)\car rental application\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 c:\users\vinayak soni\documents\project c batch(cab software)\car rental application\conio2.h
+	<conio.h>
+	<windows.h>
+
+1631687862 source:c:\users\vinayak soni\documents\project c batch(cab software)\car rental application\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"CAR.H"
+
+1631689245 source:c:\users\vinayak soni\documents\project c batch(cab software)\car rental application\car.c
+	<stdio.h>
+	"conio2.h"
+	"CAR.H"
+	<string.h>
+
+1631624644 c:\users\vinayak soni\documents\project c batch(cab software)\car rental application\car.h
+	<time.h>
+
+1632572680 source:c:\users\soniv\downloads\project c batch(cab software)\car rental application\car.c
+	<stdio.h>
+	"conio2.h"
+	"CAR.H"
+	<string.h>
+
+1386292178 c:\users\soniv\downloads\project c batch(cab software)\car rental application\conio2.h
+	<conio.h>
+	<windows.h>
+
+1631579644 c:\users\soniv\downloads\project c batch(cab software)\car rental application\car.h
+	<time.h>
+
+1386372276 source:c:\users\soniv\downloads\project c batch(cab software)\car rental application\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1631642862 source:c:\users\soniv\downloads\project c batch(cab software)\car rental application\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"CAR.H"
+
+1632674862 source:c:\users\soniv\documents\car rental application\car.c
+	<stdio.h>
+	"conio2.h"
+	"CAR.H"
+	<string.h>
+
+1386292178 c:\users\soniv\documents\car rental application\conio2.h
+	<conio.h>
+	<windows.h>
+
+1632674138 c:\users\soniv\documents\car rental application\car.h
+	<time.h>
+
+1386372276 source:c:\users\soniv\documents\car rental application\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1632674710 source:c:\users\soniv\documents\car rental application\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"CAR.H"
+
+1386372276 source:c:\car rental application\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386292178 c:\car rental application\conio2.h
+	<conio.h>
+	<windows.h>
+
+1632903577 source:c:\car rental application\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"CAR.H"
+
+1632902710 c:\car rental application\car.h
+	<time.h>
+
+1632902710 source:c:\car rental application\car.c
+	<stdio.h>
+	"conio2.h"
+	"CAR.H"
+	<string.h>
+
+1632904615 source:d:\car rental application\car.c
+	<stdio.h>
+	"conio2.h"
+	"CAR.H"
+	<string.h>
+
+1386292178 d:\car rental application\conio2.h
+	<conio.h>
+	<windows.h>
+
+1632904615 d:\car rental application\car.h
+	<time.h>
+
+1386372276 source:d:\car rental application\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1632904854 source:d:\car rental application\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"CAR.H"
+
